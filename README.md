@@ -1,2 +1,1 @@
-# GDevelopVisualNovelTemplate
-A Visual Novel template for GDevelop
+This Visual Novel Example has all that you need to make a basic Visual novel, dialog, and button options.
